@@ -1,0 +1,5 @@
+*.pyc
+db.sqlite3
+/media/
+/api/settings/dev.py
+/django-music-api-env/
